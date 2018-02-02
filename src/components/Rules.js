@@ -197,7 +197,7 @@ export const Rules = ({type, acceptRules, inEditor}) => {
           {inEditor ? <p><small><a href="https://utopian.io/rules" target="_blank">Read all the rules</a></small></p> : null}
           <ul>
             <li>Tutorials must be technical instructions that teach non-trivial aspects of an Open Source project.</li>
-            <li>Design or video editing related tutorials, gameplay, simple on-screen instructions, ubiquitous functions (Save, Open, Print, etc.) or basic programming concepts (variables, operators, loops, etc.) will not be accepted.</li>
+            <li>Design or media editing related tutorials, gameplay, simple on-screen instructions, ubiquitous functions (Save, Open, Print, etc.) or basic programming concepts (variables, operators, loops, etc.) will not be accepted.</li>
             <li>Your contribution can be rejected if the moderator provides a link to another tutorial that covers the same topic better.</li>
             <li>Machine translated tutorials will be rejected.</li>
             <li>You must include the entire tutorial in the Utopian post.</li>
